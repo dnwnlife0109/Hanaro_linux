@@ -1,0 +1,8 @@
+// basic ide usage
+sudo nano <file_name>   //  sudo nano hello_world.c
+
+// C file compiler
+gcc -o <result_file> <object_file>  // gcc -o hello_world hello_world.c
+
+// imediate shutdown 
+sudo shutdown -h now 
